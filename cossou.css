@@ -87,13 +87,12 @@ h4{
 }
 
 .biopro{
-	margin: 5px 5px -30px auto;
+	margin-top : 5px;
+	margin-left : 380px;
 	float : right;
 }
 
 .albums{
-	margin-top : 5px;
-	margin-left : 380px;
 	float : left;
 	height: 100%;
 }
