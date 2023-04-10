@@ -45,6 +45,7 @@ nav   {
 #site {
 	float : left;
 	width : auto;
+	margin-left : 200px;
 }
 
 h2{
