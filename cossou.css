@@ -54,6 +54,7 @@ h2{
 }
 
 #content{
+	height: 100%;
 }
 
 #intro{
@@ -76,8 +77,8 @@ h3 {
 }
 
 #bio{
-	margin-top : -662px;
-	margin-left : 385px;
+	margin-top : 10px;
+	width : 100%;
 	float : right;
 }
 
