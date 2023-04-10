@@ -56,8 +56,9 @@ h2{
 #content{
 	height: 100%;
 	width : auto;
-	float : right;
+	float : left;
 	margin-left : 200px;
+	margin-top : -600px;
 }
 
 #intro{
