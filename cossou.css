@@ -40,6 +40,10 @@ nav   {
 		opacity:0.9;
 		border-right:solid white;
 }
+#site {
+	float : left;
+	width : auto;
+}
 
 h2{
         font-family: serif;
@@ -57,7 +61,7 @@ h2{
 	height: 100%;
 	float : left;
 	margin-left : 200px;
-	margin-top : -660px;
+	width : auto;
 }
 
 #intro{
