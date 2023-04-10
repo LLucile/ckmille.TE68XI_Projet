@@ -87,12 +87,13 @@ h4{
 }
 
 .biopro{
-	margin: auto 0px -30px 10px;
+	margin: 5px 5px -30px auto;
 	float : right;
 }
 
 h5 {
-	margin:20px 0px -30px 1150px;
+	margin: 20px 5px -30px auto;
+	float : right;
 	border-right: solid white;
 	border-right: solid white;
 	border-left: solid white;
