@@ -57,10 +57,11 @@ h2{
 	height: 100%;
 	width : auto;
 	float : right;
+	margin-left : 200px;
 }
 
 #intro{
-	margin: 10px 10px 0px 195px;
+	margin: 10px 10px 0px 0px;
 	width : 174px;
 	height: 100%;
 }
