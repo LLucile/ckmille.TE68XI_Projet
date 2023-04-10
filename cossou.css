@@ -75,16 +75,20 @@ h4{
 	font-family: "Trebuchet MS", sans-serif;
 	font-variant: small-caps; 
 	font-size: 25px;
-        margin:-662px 0px -10px 380px;
+        margin:-662px 10px -10px 380px;
 	float : left;
 	width : auto;
 	height: 100%;
-	diplay : block;
 	font-weight:normal;
 	border-right: solid white;
 	border-left: solid white;
 	border-top: solid white;
 	border-bottom: solid white;
+}
+
+.biopro{
+	margin: auto 0px -30px 10px;
+	float : right;
 }
 
 h5 {
