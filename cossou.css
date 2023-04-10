@@ -53,9 +53,11 @@ h2{
 	width : auto;
 }
 
+#content{
+}
 
-.intro{
-	margin:200px 10px 0px 195px;
+#intro{
+	margin: 10px 10px 0px 195px;
 	width : 174px;
 	height: 100%;
 }
@@ -73,7 +75,7 @@ h3 {
 
 }
 
-.bio{
+#bio{
 	margin-top : -662px;
 	margin-left : 385px;
 	float : right;
@@ -96,7 +98,7 @@ h4{
 	border-bottom: solid white;
 }
 
-.albums{
+#albums{
 	float : left;
 	height: 100%;
 }
