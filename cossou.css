@@ -58,7 +58,7 @@ h2{
 	width : auto;
 	float : left;
 	margin-left : 200px;
-	margin-top : -600px;
+	margin-top : -660px;
 }
 
 #intro{
@@ -82,8 +82,9 @@ h3 {
 
 #bio{
 	margin-top : 10px;
+	margin-left : 200px;
 	width : auto;
-	float : right;
+	float : left;
 }
 
 h4{
