@@ -44,7 +44,6 @@ nav   {
 
 #site {
 	float : left;
-	width : auto;
 }
 
 h2{
@@ -62,8 +61,6 @@ h2{
 #content{
 	height: 100%;
 	float : left;
-	margin-left : 200px;
-	width : auto;
 }
 
 #intro{
@@ -76,7 +73,6 @@ h2{
 #bio{
 	margin-top : 10px;
 	float : left;
-	width : auto;
 }
 
 h3 {
