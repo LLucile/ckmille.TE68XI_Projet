@@ -53,11 +53,15 @@ h2{
 	width : auto;
 }
 
+
+.intro{
+	margin-top : -662px;
+	width : 174px;
+}
+
 h3 {
 	font-family: "Gill Sans", sans-serif;
 	text-align:left;
-	height:472px;
-	width:174px;
 	margin:200px 10px 0px 195px;
 	font-size: 15px;
 	font-weight:normal;
@@ -67,9 +71,6 @@ h3 {
 	border-top: solid white;
 	border-bottom: solid white;
 
-}
-.intro{
-	margin-top : -662px;
 }
 
 .bio{
