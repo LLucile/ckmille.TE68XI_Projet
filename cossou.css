@@ -62,7 +62,7 @@ h2{
 }
 
 #intro{
-	margin: 10px 10px 0px 0px;
+	margin-top : 10px;
 	width : 174px;
 	height: 100%;
 	float : left;
@@ -70,7 +70,6 @@ h2{
 
 #bio{
 	margin-top : 10px;
-	margin-left : 200px;
 	float : left;
 	width : auto;
 }
