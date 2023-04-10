@@ -55,7 +55,7 @@ h2{
 
 #content{
 	height: 100%;
-	width : 100%;
+	width : auto;
 	float : right;
 }
 
@@ -80,7 +80,7 @@ h3 {
 
 #bio{
 	margin-top : 10px;
-	width : 100%;
+	width : auto;
 	float : right;
 }
 
