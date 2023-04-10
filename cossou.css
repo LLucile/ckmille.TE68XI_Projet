@@ -69,13 +69,19 @@ h3 {
 
 }
 
+.biopro{
+	margin-top : -662px;
+	margin-left : 385px;
+	float : right;
+}
+
 h4{
 
 	text-align:left;
 	font-family: "Trebuchet MS", sans-serif;
 	font-variant: small-caps; 
 	font-size: 25px;
-        margin:-662px 10px -10px 380px;
+        margin: 5px 10px -10px 0px;
 	float : left;
 	width : auto;
 	height: 100%;
@@ -84,12 +90,6 @@ h4{
 	border-left: solid white;
 	border-top: solid white;
 	border-bottom: solid white;
-}
-
-.biopro{
-	margin-top : 5px;
-	margin-left : 380px;
-	float : right;
 }
 
 .albums{
