@@ -113,6 +113,13 @@ h4{
 #albums{
 	float : left;
 	height: 100%;
+	width : 100%;
+}
+
+#pro
+{
+	float : left;
+	width : auto;
 }
 
 h5 {
