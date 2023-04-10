@@ -93,6 +93,9 @@ h4{
 
 .albums{
 	margin-top : 5px;
+	margin-left : 380px;
+	float : left;
+	height: 100%;
 }
 
 h5 {
