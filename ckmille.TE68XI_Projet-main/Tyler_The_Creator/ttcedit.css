@@ -1,0 +1,57 @@
+html {
+    background-image: url(ttcb.jpg);
+}
+
+
+
+h2 {
+    color: #F5DA89;
+    opacity: 0.9;
+}
+
+h3 {
+    color: #FB5C1B;
+}
+
+.class1 {
+    color: white;
+}
+
+h4 {
+    color: #FB5C1B;
+}
+
+h5 {
+    background: #F5DA89;
+    opacity: 0.92;
+    color: #FB5C1B;
+}
+
+h6 {
+    color: white;
+}
+
+.p1 {
+    color: #FB5C1B;
+    font-size: 17px;
+}
+
+.p2 {
+    color: #FB5C1B;
+}
+
+nav {
+
+    background: #F5DA89;
+    opacity: 0.9;
+}
+
+#cheatsheet{
+        background: #E5D7AE;
+    opacity: 0.9;
+}
+
+#personalBio{    
+    background: #F5DA89;
+    opacity: 0.92;
+}

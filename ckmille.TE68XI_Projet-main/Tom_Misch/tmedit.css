@@ -1,0 +1,54 @@
+html {
+    background-image: url(tmfond.jpg);
+}
+
+h2 {
+    color: #F0B334;
+    opacity: 0.9;
+}
+
+h3 {
+    color: white;
+}
+
+.class1 {
+    color: #FFE675;
+}
+
+h4 {
+    color: white;
+}
+
+
+h5 {
+    background: #F0B334;
+    opacity: 0.92;
+    color: white;
+}
+
+h6 {
+    color: white;
+}
+
+.p1 {
+    color: white;
+    font-size: 18px;
+}
+
+.p2 {
+    color: white;
+}
+
+nav {
+    background: #F0B334;
+}
+
+#cheatsheet {
+    background: #F0B334;
+    opacity: 0.9;
+}
+
+#personalBio {
+    background: #F0B334;
+    opacity: 0.92;
+}
